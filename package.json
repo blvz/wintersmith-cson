@@ -1,0 +1,16 @@
+{
+  "name": "wintersmith-cson",
+  "version": "0.1.0",
+  "author": "Rafael Belvederese <rafael@blvz.im>",
+  "description": "cson plugin for wintersmith",
+  "keywords": ["wintersmith-plugin"],
+  "license": "MIT",
+  "repository": "https://github.com/blvz/wintersmith-cson",
+  "dependencies": {
+    "cson-safe": ">=0.1.x"
+  },
+
+  "devDependencies": {
+    "wintersmith": "2.x"
+  }
+}

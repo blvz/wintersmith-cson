@@ -1,0 +1,7 @@
+template: 'index.jade'
+machine:
+  serial: ['m', 'a', 'c', 'h', 'i', 'n', 'e']
+  series: 823
+choices:
+  eat: 'Eat'
+  sleep: 'Sleep'

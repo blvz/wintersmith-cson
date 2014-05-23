@@ -1,0 +1,13 @@
+doctype html
+html(lang='en')
+  head
+    meta(charset='utf-8')
+    title winterless
+  body
+    div.frame
+      h1 You are a #{page.metadata.machine.serial.join('')}
+      input#series(type='hidden' value=page.metadata.machine.series)
+      h2 These are your choices:
+      each v, k in page.metadata.choices
+        button(class=k)
+          = v
