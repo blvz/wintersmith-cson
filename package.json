@@ -1,6 +1,6 @@
 {
   "name": "wintersmith-cson",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Rafael Belvederese <rafael@blvz.im>",
   "description": "cson plugin for wintersmith",
   "keywords": ["wintersmith-plugin"],
